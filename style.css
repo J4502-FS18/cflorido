@@ -5,6 +5,7 @@ html {
 
 body {
 	background-color:#969696;
+	font-family: font-family: 'Source Sans Pro', sans-serif;
 }
 
 #container {
@@ -75,7 +76,7 @@ a:link {
 	text-align: center;
 	text-decoration: none;
 	list-style-type: none;
-	border: 2px solid #ffffff;
+	border: 15px solid #ffffff;
 }
 
 #nav a:hover, a:active {
