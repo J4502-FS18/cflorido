@@ -31,10 +31,10 @@ a:link {
 	margin: 0 auto;
 }
 
-#nav li {
+#nav {
 	display: block;
     margin: 0;
-    padding: 0;
+    padding: 25px;
 	text-decoration: none;
 }
 
@@ -45,7 +45,7 @@ a:link {
 	font-weight: bold;
 	text-align: center;
 	text-decoration: none;
-  padding: 25px;
+  padding: 0;
 	list-style-type: none;
 }
 
