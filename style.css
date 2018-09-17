@@ -32,8 +32,15 @@ a:link {
 }
 
 #nav {
-    padding: 4px;
+    padding: 0;
 	list-style-type: none;
+}
+
+#nav li {
+    margin: 0;
+    padding: 4px;
+	border-bottom: 1px solid #ccc;
+	text-decoration: none;
 }
 
 #nav {
