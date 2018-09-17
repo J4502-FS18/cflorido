@@ -31,9 +31,14 @@ a:link {
 }
 
 #nav {
-  padding: 0;
-	list-style-type: none;
+	display: block;
+	color:#ffffff;
 	background-color: blue;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+  padding: 4px;
+	list-style-type: none;
 }
 
 #nav a:hover, a:active {
