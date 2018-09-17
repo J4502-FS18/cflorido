@@ -5,6 +5,7 @@ html {
 
 body {
 	background-color:#969696;
+		font-family: font-family: 'Source Sans Pro', Helvetica, sans-serif;
 }
 
 #container {
@@ -67,10 +68,9 @@ a:link {
 }
 
 #nav {
-	display: block;
 	color:#ffffff;
 	margin: 0;
-	padding:4px;
+	padding:0;
 	background-color: #B57EE8;
 	font-weight: bold;
 	text-align: center;
