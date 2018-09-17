@@ -30,6 +30,10 @@ p {
 	list-style-type: none;
 }
 
+#nav a:hover, a:active {
+    background-color: #7a991a;
+}
+
 img {
   border:none;
 }
