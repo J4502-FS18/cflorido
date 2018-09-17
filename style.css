@@ -31,9 +31,8 @@ a:link {
 }
 
 #nav li {
-    margin: 1px;
-    padding: 1px;
-	border-bottom: 1px solid #ccc;
+    margin: 4px;
+    padding: 4px;
 	text-decoration: none;
 }
 
