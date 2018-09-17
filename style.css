@@ -21,8 +21,9 @@ p {
 }
 
 #container {
-    background-color: #FFFFFF;
-    margin: 0 auto;
+	align-content: center;
+	background-color: #FFFFFF;
+	margin: 0 auto;
 }
 
 #nav {
