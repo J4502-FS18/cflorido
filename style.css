@@ -38,7 +38,7 @@ a:link {
 	text-decoration: none;
 }
 
-#nav {
+#nav a:link, a:visited {
 	display: block;
 	color:#ffffff;
 	background-color: #B57EE8;
