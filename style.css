@@ -12,7 +12,7 @@ h1 {
 	color:#50B573;
 }
 
-h2 {
+#subheads {
 	font-style: italic;
 	font-size: 2rem;
 }
@@ -22,7 +22,7 @@ p {
   font-size: 1rem;
 }
 
-p1 {
+#p1 {
 	font-weight: bold;
 	font-size:1rem;
 }
