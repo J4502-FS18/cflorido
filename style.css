@@ -33,6 +33,7 @@ a:link {
 
 #nav {
     padding: 4px;
+		align-content: center;
 		width: 90%;
 	list-style-type: none;
 }
