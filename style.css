@@ -37,8 +37,8 @@ a:link {
 }
 
 #nav li {
-    margin: 2px;
-    padding: 4px;
+  margin: 0;
+  padding: 10px;
 	border-bottom: 1px solid #ccc;
 	text-decoration: none;
 }
