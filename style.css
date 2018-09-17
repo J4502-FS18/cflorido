@@ -5,7 +5,6 @@ html {
 
 body {
 	background-color:#969696;
-		font-family: font-family: 'Source Sans Pro', Helvetica, sans-serif;
 }
 
 #container {
@@ -37,7 +36,7 @@ h3{
 }
 
 p {
-	font-family: font-family: 'Source Sans Pro', Helvetica, sans-serif;
+	font-family: font-family: 'Source Sans Pro', sans-serif;
   font-size: 1rem;
 }
 
