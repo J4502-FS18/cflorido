@@ -31,8 +31,8 @@ a:link {
 }
 
 #nav li {
-    margin: 4px;
-    padding: 4px;
+    margin: 0;
+    padding: 0;
 	text-decoration: none;
 }
 
