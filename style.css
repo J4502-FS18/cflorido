@@ -12,6 +12,16 @@ h1 {
 	color:#50B573;
 }
 
+h2{
+	font-size: 1rem;
+	font-weight:bold;
+}
+
+h3{
+	font-size: 1rem;
+	font-weight: bold;
+}
+
 #subheads {
 	font-style: italic;
 	font-size: 2rem;
