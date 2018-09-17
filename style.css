@@ -36,6 +36,10 @@ a:link {
 	list-style-type: none;
 }
 
+#nav {
+	padding:4px;
+}
+
 #nav li {
   margin: 0;
   padding: 0;
