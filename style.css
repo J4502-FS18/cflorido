@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-	color:#6746E8;
+	color:#50B573;
 }
 
 h2 {
@@ -59,7 +59,7 @@ a:link {
 }
 
 #nav a:hover, a:active {
-    background-color: #B5DFFF;
+    background-color: #ECCB98;
 		padding: 0;
 }
 
