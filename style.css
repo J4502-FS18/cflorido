@@ -11,10 +11,9 @@ body {
 
 #container {
 	align-content: center;
-	width: 95%;
 	background-color: #FFFFFF;
 	margin: 0 auto;
-	padding: 10px, 20px;
+	border: 15px solid #ffffff;
 }
 
 h1 {
