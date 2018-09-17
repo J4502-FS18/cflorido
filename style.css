@@ -75,6 +75,7 @@ a:link {
 	text-align: center;
 	text-decoration: none;
 	list-style-type: none;
+	border: 2px solid #ffffff;
 }
 
 #nav a:hover, a:active {
