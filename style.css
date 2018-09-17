@@ -17,9 +17,8 @@ p {
 }
 
 #container {
-    width: 95%;
     background-color: #F6FFF8;
-    margin: 0 auto;
+    margin: auto;
 }
 
 #nav {
