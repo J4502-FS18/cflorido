@@ -32,14 +32,6 @@ a:link {
 }
 
 #nav {
-	display: block;
-    margin: 0;
-    padding: 25px;
-	text-decoration: none;
-}
-
-#nav {
-	display: block;
 	color:#ffffff;
 	background-color: #B57EE8;
 	font-weight: bold;
