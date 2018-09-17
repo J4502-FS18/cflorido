@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 html {
 	font-size: 100%
 }
@@ -8,7 +8,7 @@ body{
 }
 
 p{
-  font-family: 'Libre Franklin', Helvetica, sans-serif;
+  font-family: 'Libre Franklin', sans-serif;
   font-size: 1rem;
 }
 
@@ -26,32 +26,3 @@ p{
 img {
   border:none;
 }
-=======
-html {
-	font-size: 100%
-}
-
-body{
-	background-color:#fff2c9;
-}
-
-p{
-  font-family: 'Libre Franklin', Helvetica, sans-serif;
-  font-size: 1rem;
-}
-
-#container{
-    width: 95%;
-    background-color: #ffffff;
-    margin: 0 auto;
-}
-
-#nav {
-    padding: 0;
-	list-style-type: none;
-}
-
-img {
-  border:none;
-}
->>>>>>> 7b6549b3af00e3ae8668ed191b303056932a27be
