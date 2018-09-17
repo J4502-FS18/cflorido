@@ -1,12 +1,12 @@
 
 html {
 	font-size: 100%
+	margin: auto;
 }
 
 body {
 	background-color:#969696;
 	font-family: 'Source Sans Pro', sans-serif;
-	margin: auto;
 }
 
 #container {
