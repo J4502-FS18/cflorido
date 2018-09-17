@@ -30,6 +30,13 @@ a:link {
 	margin: 0 auto;
 }
 
+#nav li {
+    margin: 0;
+    padding: 0;
+	border-bottom: 1px solid #ccc;
+	text-decoration: none;
+}
+
 #nav {
 	display: block;
 	color:#ffffff;
