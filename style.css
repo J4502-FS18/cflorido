@@ -6,6 +6,7 @@ html {
 body {
 	background-color:#969696;
 	font-family: 'Source Sans Pro', sans-serif;
+<<<<<<< HEAD
 }
 
 
@@ -54,6 +55,56 @@ h3{
 }
 
 p {
+=======
+}
+
+
+#container1 {
+	align-content: center;
+	background-color: #FFFFFF;
+	margin: 0 auto;
+	border: 20px solid #ffffff;
+}
+
+.container {
+	padding: 10px;
+	background: #fff;
+  border-radius: 5px;
+	margin: 45px auto;
+  box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
+}
+.item {
+	color: #000;
+	padding: 15px;
+	margin: 5px;
+	background: #6a7ff7;
+	border-radius: 3px;
+}
+
+h1 {
+	color:#50B573;
+	font-family: 'Anton', sans-serif;
+}
+
+h2{
+	font-size: 1rem;
+	font-weight:bold;
+	font-style: italic;
+}
+
+h3{
+	font-size: 1rem;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#subheads {
+	font-style: italic;
+	font-size: 2rem;
+}
+
+p {
+>>>>>>> e6601ecb721201b9fba531c79f81c6b1632d69fa
 	font-family: 'Source Sans Pro', sans-serif;
   font-size: 1rem;
 }
