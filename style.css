@@ -6,7 +6,6 @@ html {
 body {
 	background-color:#969696;
 	font-family: 'Source Sans Pro', sans-serif;
-<<<<<<< HEAD
 }
 
 
@@ -54,11 +53,6 @@ h3{
 	font-size: 2rem;
 }
 
-p {
-=======
-}
-
-
 #container1 {
 	align-content: center;
 	background-color: #FFFFFF;
@@ -104,7 +98,6 @@ h3{
 }
 
 p {
->>>>>>> e6601ecb721201b9fba531c79f81c6b1632d69fa
 	font-family: 'Source Sans Pro', sans-serif;
   font-size: 1rem;
 }
