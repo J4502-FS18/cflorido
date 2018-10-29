@@ -163,8 +163,8 @@ grid-area:g;
     grid-template-areas:
         "a a a"
 				"b b c"
-				"d d e"
-				"f . g";
+				"d d d"
+				"e f g";
 			}
 }
 
@@ -172,12 +172,16 @@ grid-area:g;
 	.cards{
 		display:grid;
     grid-gap: 20px;
-		grid-template-columns: 1fr;
+		grid-auto-flow: column;
+		grid-template-columns: 150px 150px;
+		align-items: start;
 		grid-template-areas:
-        "b a"
-				"c d"
-				"e f"
-				"g .";
+        "a a"
+				"b b"
+				"d d"
+				"c c"
+				"e e"
+				"f g";
 			}
 }
 
