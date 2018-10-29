@@ -139,6 +139,7 @@ a:link {
 	text-decoration: none;
 	list-style-type: none;
 	border: 15px solid #ffffff;
+<<<<<<< HEAD
 }
 
 #nav a:hover, a:active {
@@ -177,3 +178,22 @@ border-radius: 5px;
     font-size: 0.8em;
     border-top: 1px solid black;
 }
+=======
+}
+
+#nav a:hover, a:active {
+    background-color: #ECCB98;
+		padding: 0;
+}
+
+img {
+  border:none;
+}
+
+#footer {
+    color: black;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 0.8em;
+    border-top: 1px solid black;
+}
+>>>>>>> d0e0c02ce1984205192f50b5e149af85617fc3de
