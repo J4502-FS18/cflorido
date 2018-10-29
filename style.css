@@ -171,12 +171,11 @@ grid-area:g;
 @media (max-width:500px){
 	.cards{
 		display:grid;
-    grid-gap: 5px;
-		grid-template-columns:50px 1fr;
+    grid-gap: 20px;
     grid-template-areas:
         "b a a"
-				"c d ."
-				"e f g";
+				"c d e"
+				"f g .";
 			}
 }
 
