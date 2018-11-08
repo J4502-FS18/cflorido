@@ -4,7 +4,7 @@ html {
 }
 
 body {
-	background-color:#969696;
+	background-color:#FFF;
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -23,15 +23,15 @@ body {
 }
 
 
-.container {
+/*.container {
 	padding: 10px;
 	background: #fff;
   border-radius: 5px;
 	margin: 45px auto;
   box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
-	display:flex;
-	flex-flow: row;
-}
+/*	display:flex;
+	flex-flow: row;*/
+
 
 
 .item {
@@ -40,6 +40,10 @@ body {
 	margin: 5px;
 	background: #6a7ff7;
 	border-radius: 3px;
+}
+
+.container .item{
+	display:none;
 }
 
 h1 {
@@ -196,6 +200,18 @@ grid-area:g;
 			}
 }
 
+@media screen and (min-width:700px){
+	container{
+		display:flex;
+	}
+	container{
+		border-top:none;
+	}
+
+	.menu-trigger{
+		display:none;
+	}
+}
 #footer {
     color: black;
     font-family: Georgia, "Times New Roman", serif;
